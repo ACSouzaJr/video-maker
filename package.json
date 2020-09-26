@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/ACSouzaJr/video-maker.git",
   "author": "ACSouzaJr <junioracs2000@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
